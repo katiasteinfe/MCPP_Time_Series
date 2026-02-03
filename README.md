@@ -3,6 +3,10 @@ Eye-tracking analysis pipeline (MCPP)
 
 This repository contains an analysis pipeline for eye-tracking data collected in the Multisensory Cocktail Party Problem (MCPP) paradigm.
 
+### Data availability
+
+Experimental data are archived on OSF in the Experimental_Data folder: https://osf.io/am7x4/overview?view_only=431236bbb8624d748e861f31c7935db2
+
 A run_pipeline() function is used for both adults and children. The preprocessing steps are shared, while sanitization and analysis scripts differ by group.
 
 ### IMPORTANT SETUP REQUIREMENTS
